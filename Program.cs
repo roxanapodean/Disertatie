@@ -64,7 +64,7 @@ namespace PrelucrareTraces
 
                         final_line = deltaT.ToString("0.00", CultureInfo.InvariantCulture) + ",";
                         
-                        final_line = "";
+                        //final_line = "";
 
                         for (int i = 1; i < frame.Length; i++)
                         {
